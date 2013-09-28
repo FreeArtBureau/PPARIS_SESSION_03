@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+  <status>
+    <created_at>Sat Sep 29 17:10:03 +0000 2012</created_at>
+    <id>252092889956483072</id>
+    <text>Listening to Round 9 by Scientist #nowplaying http://t.co/CLGg5a26</text>
+    <source>&lt;a href=&quot;http://grooveshark.com&quot; rel=&quot;nofollow&quot;&gt;Grooveshark.com&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 15:59:33 +0000 2012</created_at>
+    <id>251712760889614337</id>
+    <text>#ff @pubForADrink @appyHours @CafeCultureInnaBabylon @ThePositiveParisiens @2DaysWorkingAtHome @RoleOnFridays @FiveOClockBeat @WeekendAlpha</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 15:54:53 +0000 2012</created_at>
+    <id>251711585066819584</id>
+    <text>Listening to De Materialize by Scientist #nowplaying http://t.co/WpBfw5Qj</text>
+    <source>&lt;a href=&quot;http://grooveshark.com&quot; rel=&quot;nofollow&quot;&gt;Grooveshark.com&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 15:21:08 +0000 2012</created_at>
+    <id>251703091391504384</id>
+    <text>Listening to Low Gravity by Prince Far I #nowplaying http://t.co/xleLHEO1</text>
+    <source>&lt;a href=&quot;http://grooveshark.com&quot; rel=&quot;nofollow&quot;&gt;Grooveshark.com&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 14:17:09 +0000 2012</created_at>
+    <id>251686989420695553</id>
+    <text>Listening to Stoned Immaculate by Dub Syndicate #nowplaying http://t.co/mG6Ms5Gb</text>
+    <source>&lt;a href=&quot;http://grooveshark.com&quot; rel=&quot;nofollow&quot;&gt;Grooveshark.com&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 14:13:47 +0000 2012</created_at>
+    <id>251686145581281282</id>
+    <text>Today's trending. Some results at 16:03 : God, family, friends, giving, mom, dad. #MentionSomeoneWhoMakesYouHappy</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 14:02:07 +0000 2012</created_at>
+    <id>251683207802650625</id>
+    <text>@swissmiss with toast &amp;amp; a friend to share. (Preferably with the strong &amp;amp; mature type).</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>251673996687470592</in_reply_to_status_id>
+    <in_reply_to_user_id>1504011</in_reply_to_user_id>
+    <in_reply_to_screen_name>swissmiss</in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 13:59:05 +0000 2012</created_at>
+    <id>251682442627407873</id>
+    <text>@dogjudo Indeed, better when they go hand in hand ;&#8211;) #appy #bush #meet-up</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>251679336204210176</in_reply_to_status_id>
+    <in_reply_to_user_id>84045470</in_reply_to_user_id>
+    <in_reply_to_screen_name>DogJudo</in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 09:31:44 +0000 2012</created_at>
+    <id>251615163059425280</id>
+    <text>Special Announcement @DogJudo &amp;gt;&amp;gt;&amp;gt; http://t.co/TXxLvQS9 / I really wanna get my hand on your app ! #dog &amp;amp; #app #lovers</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Fri Sep 28 08:27:57 +0000 2012</created_at>
+    <id>251599113072824320</id>
+    <text>@john_tax We only make zines in France ;&#8211;)</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>251597025857114112</in_reply_to_status_id>
+    <in_reply_to_user_id>342582067</in_reply_to_user_id>
+    <in_reply_to_screen_name>John_Tax</in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Sep 27 10:01:35 +0000 2012</created_at>
+    <id>251260287561375744</id>
+    <text>@measureofmylove Aye aye cockle pie ;&#8211;)</text>
+    <source>&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>251229820095172608</in_reply_to_status_id>
+    <in_reply_to_user_id>590938498</in_reply_to_user_id>
+    <in_reply_to_screen_name>measureofmylove</in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Thu Sep 27 07:11:48 +0000 2012</created_at>
+    <id>251217562053001216</id>
+    <text>I need a tab limiter on my browser. Three is a good number.</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Sep 26 23:10:30 +0000 2012</created_at>
+    <id>251096436475850752</id>
+    <text>Listening to Close Your Eyes by LTJ Bukem #nowplaying http://t.co/Yu67PxcY</text>
+    <source>&lt;a href=&quot;http://grooveshark.com&quot; rel=&quot;nofollow&quot;&gt;Grooveshark.com&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Sep 26 23:02:07 +0000 2012</created_at>
+    <id>251094325914652673</id>
+    <text>Getting fat on information &amp;amp; data. I think I'll go on a crash diet and just turn the bloody thing off. #boolean sleep = true;</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Sep 26 22:55:03 +0000 2012</created_at>
+    <id>251092548540575744</id>
+    <text>Biscuits &amp;amp; tea anyone ?</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Sep 26 22:53:25 +0000 2012</created_at>
+    <id>251092139549790208</id>
+    <text>@john_tax @Adelinedelure C'est lui qui ronflait &#224; la chancellerie. That Julien ?</text>
+    <source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id>251084591849418752</in_reply_to_status_id>
+    <in_reply_to_user_id>342582067</in_reply_to_user_id>
+    <in_reply_to_screen_name>John_Tax</in_reply_to_screen_name>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
+    <created_at>Wed Sep 26 22:41:12 +0000 2012</created_at>
+    <id>251089062784561152</id>
+    <text>Listening to Superstring - Cygnus by Sasha And John Digweed #nowplaying http://t.co/o6EvbFzC</text>
+    <source>&lt;a href=&quot;http://grooveshark.com&quot; rel=&quot;nofollow&quot;&gt;Grooveshark.com&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <possibly_sensitive>false</possibly_sensitive>
+    <user>
+      <id>13091752</id>
+      <name>mark webster</name>
+      <screen_name>motiondesign_01</screen_name>
+      <location>Paris</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/1209305849/profile3_normal.jpg</profile_image_url_https>
+      <url>http://cargocollective.com/mwebster</url>
+      <description>Motion, Design, Art &amp; Code</description>
+      <protected>false</protected>
+      <followers_count>446</followers_count>
+      <profile_background_color>9AE4E8</profile_background_color>
+      <profile_text_color>333333</profile_text_color>
+      <profile_link_color>0084B4</profile_link_color>
+      <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+      <friends_count>315</friends_count>
+      <created_at>Tue Feb 05 12:55:50 +0000 2008</created_at>
+      <favourites_count>18</favourites_count>
+      <utc_offset>3600</utc_offset>
+      <time_zone>Paris</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/profile_background_images/34351127/testimage_04.jpg</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>2141</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>29</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>1</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+</statuses>

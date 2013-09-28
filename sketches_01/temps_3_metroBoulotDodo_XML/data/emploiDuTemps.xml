@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+	<name>Petit Dejeuner</name>
+	<period start="09h30m00s" end="10h30m00s" />
+  </item>
+  <item>
+	<name>Transport</name>
+	<period start="10h45m00s" end="11h15m00s" />
+  </item>
+  <item>
+	<name>Travail</name>
+	<period start="11h30m00s" end="13h00m00s" />
+  </item>
+  <item>
+	<name>Dejeuner</name>
+	<period start="13h00m00s" end="14h00m00s" />
+  </item>
+  <item>
+	<name>Travail</name>
+	<period start="14h00m00s" end="19h30m00s" />
+  </item>
+  <item>
+	<name>Transport</name>
+	<period start="19h45m00s" end="20h15m00s" />
+  </item>
+  <item>
+	<name>Biere</name>
+	<period start="20h15m00s" end="20h30m00s" />
+  </item>
+  <item>
+	<name>Jeu-video</name>
+	<period start="20h30m00s" end="02h30m00s" />
+  </item>
+  <item>
+	<name>Dodo</name>
+	<period start="02h30m00s" end="09h30m00s" />
+  </item>
+	
+</items>
